@@ -16,7 +16,7 @@
 # to apply to only that forwarding rule
 #
 # bindadress    bindport  connectaddress  connectport
-127.0.0.1       localport server_address  serviceport
+0.0.0.0       localport server_address  serviceport
 
 
 # logging information
