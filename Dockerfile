@@ -9,7 +9,7 @@
 #
 # # Image tag
 # #
-# TAG="0.1"
+# TAG="0.1.1"
 #
 # # Perform other pre-build steps here
 #
